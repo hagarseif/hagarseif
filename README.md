@@ -1,8 +1,8 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Hagar Mohamed</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..." />
+<img align="right" src="https://c.tenor.com/S59bPkT0pqcAAAAC/programming.gif" alt="alaayasser741"  width="400" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hagarseif&label=Profile%20views&color=0e75b6&style=flat" alt="hagarseif" /> </p>
 
